@@ -1,0 +1,5 @@
+﻿  UnitTestKurs.cpp
+F:\Универ\Прога 3 сем\Alg_Str\Kurs\Bakuta_Kurs\algstr_kurs\Postfix.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+F:\Универ\Прога 3 сем\Alg_Str\Kurs\Bakuta_Kurs\algstr_kurs\Postfix.cpp(173,20): warning C4018: '<': signed/unsigned mismatch
+     Creating library F:\Универ\Прога 3 сем\Alg_Str\Kurs\Bakuta_Kurs\algstr_kurs\Debug\UnitTestKurs.lib and object F:\Универ\Прога 3 сем\Alg_Str\Kurs\Bakuta_Kurs\algstr_kurs\Debug\UnitTestKurs.exp
+  UnitTestKurs.vcxproj -> F:\Универ\Прога 3 сем\Alg_Str\Kurs\Bakuta_Kurs\algstr_kurs\Debug\UnitTestKurs.dll

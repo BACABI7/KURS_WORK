@@ -1,0 +1,6 @@
+﻿  Postfix.cpp
+F:\Универ\Прога 3 сем\Alg_Str\Kurs\Bakuta_Kurs\algstr_kurs\Postfix.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+F:\Универ\Прога 3 сем\Alg_Str\Kurs\Bakuta_Kurs\algstr_kurs\Postfix.cpp(173,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  algstr_kurs.vcxproj -> F:\Универ\Прога 3 сем\Alg_Str\Kurs\Bakuta_Kurs\algstr_kurs\Debug\algstr_kurs.exe
